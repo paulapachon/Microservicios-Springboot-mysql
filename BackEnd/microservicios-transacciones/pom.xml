@@ -22,9 +22,9 @@
 	<dependencies>
 		
 		<dependency>
-		<groupId>com.microservicios.app.commons</groupId>
-	<artifactId>commos-transacciones-main</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+			<groupId>com.microserservices.app.commons</groupId>
+			<artifactId>generaltransactions</artifactId>
+    			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		
 		<dependency>
