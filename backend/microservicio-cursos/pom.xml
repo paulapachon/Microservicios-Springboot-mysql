@@ -71,6 +71,15 @@
 			<artifactId>spring-cloud-starter-loadbalancer</artifactId>
 		</dependency>
 	</dependencies>
+	
+	<repositories>
+		<repository>
+			<id>project-common</id>
+			<name>Project Common</name>
+			<url>https://github.com/paulapachon/mvn-repo/blob/main/</url>
+		</repository>
+	</repositories>
+	
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
